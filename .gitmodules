@@ -5,4 +5,4 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/ichsansaid/grabbie-backend.git
-	branch = main
+	branch = master
